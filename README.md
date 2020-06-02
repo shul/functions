@@ -11,7 +11,7 @@ download remote archive files and save to parquet
 **[gen_class_data](gen_class_data/gen_class_data.ipynb)**<br>
 generate simulated classification data according to detailed specs.  Great for testing algorithms and metrics and whole pipelines.
 
-**[load_datasets](load_datasets/load_datasets.ipynb)**<br>
+**[load_datasets](load_dataset/load_dataset.ipynb)**<br>
 download toy datasets from sklearn, tensorflow datasets, and other data external curated datasets.
 
 **[open_archive](open_archive/open_archive.ipynb)**<br>
